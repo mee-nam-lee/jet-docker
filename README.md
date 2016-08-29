@@ -1,2 +1,2 @@
 # jet-docker
-A dockerized example of the jet WorkBetter example sample
+A dockerized example of the jet WorkBetter example
